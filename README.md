@@ -4,6 +4,8 @@
 
 Welcome to my learning blog! Here I document my learning journey, technical notes, and project practices.
 
+📖 **[查看使用指南 / View User Guide](./GUIDE.md)** - 了解如何使用这个学习博客
+
 ## 📚 学习笔记分类 / Learning Notes Categories
 
 ### 💻 编程语言 / Programming Languages
